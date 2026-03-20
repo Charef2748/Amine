@@ -1,59 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlwanSports1" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/213709.ts
-#EXTINF:-1 tvg-id="AlwanSports2" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/214174.ts
-#EXTINF:-1 tvg-id="AlwanSports3" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 3
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/214174.ts
-#EXTINF:-1 tvg-id="AlwanSports4" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 4
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219367.ts
-#EXTINF:-1 tvg-id="AlwanSports5" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 5
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219369.ts
-#EXTINF:-1 tvg-id="AlwanSports6" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 6
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219371.ts
-#EXTINF:-1 tvg-id="AlwanSportsHD1" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/213710.ts
-#EXTINF:-1 tvg-id="AlwanSportsHD2" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/214175.ts
-#EXTINF:-1 tvg-id="AlwanSportsHD3" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 3
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219370.ts
-#EXTINF:-1 tvg-id="AlwanSportsHD4" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 4
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219368.ts
-#EXTINF:-1 tvg-id="AlwanSportsHD5" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 5
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219372.ts
-#EXTINF:-1 tvg-id="AlwanSportsHD6" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 6
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219374.ts
-#EXTINF:-1 tvg-id="PostSport1" tvg-logo="" group-title="Post Sport",Post Sport 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/186407.ts
-#EXTINF:-1 tvg-id="PostSport2" tvg-logo="" group-title="Post Sport",Post Sport 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/186408.ts
-#EXTINF:-1 tvg-id="PostSport3" tvg-logo="" group-title="Post Sport",Post Sport 3
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/186409.ts
-#EXTINF:-1 tvg-id="PostSport4" tvg-logo="" group-title="Post Sport",Post Sport 4
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/186410.ts
-#EXTINF:-1 tvg-id="PostSport5" tvg-logo="" group-title="Post Sport",Post Sport 5
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/186411.ts
-#EXTINF:-1 tvg-id="PostSport6" tvg-logo="" group-title="Post Sport",Post Sport 6
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/186412.ts
-#EXTINF:-1 tvg-id="ThmanieHD1" tvg-logo="" group-title="Thamanie HD",Thamanie HD 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/181611.ts
-#EXTINF:-1 tvg-id="ThmanieHD2" tvg-logo="" group-title="Thamanie HD",Thamanie HD 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/181612.ts
-#EXTINF:-1 tvg-id="ThmanieHD3" tvg-logo="" group-title="Thamanie HD",Thamanie HD 3
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/181684.ts
-#EXTINF:-1 tvg-id="Thamanie4K1" tvg-logo="" group-title="Thamanie 4K",Thamanie 4K 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/220684.ts
-#EXTINF:-1 tvg-id="Thamanie4K2" tvg-logo="" group-title="Thamanie 4K",Thamanie 4K 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/220685.ts
-#EXTINF:-1 tvg-id="ShahidSportsSD1" tvg-logo="" group-title="Shahid Sports SD",Shahid Sports SD 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/187272.ts
-#EXTINF:-1 tvg-id="ShahidSportsSD2" tvg-logo="" group-title="Shahid Sports SD",Shahid Sports SD 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/187273.ts
-#EXTINF:-1 tvg-id="ShahidSportsSD3" tvg-logo="" group-title="Shahid Sports SD",Shahid Sports SD 3
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/187274.ts
-#EXTINF:-1 tvg-id="ShahidSportsSD4" tvg-logo="" group-title="Shahid Sports SD",Shahid Sports SD 4
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/187275.ts
-#EXTINF:-1 tvg-id="AlRabiaaSD1" tvg-logo="" group-title="Alrabiaa Sports SD",Alrabiaa Sports SD 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/187275.ts
-#EXTINF:-1 tvg-id="AlRabiaaSD2" tvg-logo="" group-title="Alrabiaa Sports SD",Alrabiaa Sports SD 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/187275.ts
+#EXTINF:-1 tvg-id="BeinSports4K1" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 1 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318197.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K2" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 2 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318198.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K3" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 3 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318199.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K4" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 4 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318200.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K5" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 5 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318201.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K6" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 6 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318202.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K7" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 7 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318203.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K8" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 8 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318204.m3u8
+#EXTINF:-1 tvg-id="BeinSports4K9" tvg-logo="" group-title="beIN Sports 4K",beIN Sports 9 4K
+http://ksauae.xyz/live/98653226884/17441864105955/318205.m3u8
