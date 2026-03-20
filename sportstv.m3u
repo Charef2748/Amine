@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SportTV1" tvg-logo="https://i.imgur.com/abc1234.png" group-title="A arabic",Sport TV 1 (1080p)
+#EXTINF:-1 tvg-id="AlwanSports1" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 1
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/213709.ts
-#EXTINF:-1 tvg-id="SportTV2" tvg-logo="https://i.imgur.com/def5678.png" group-title="A arabic",Sport TV 2 (720p)
-http://live.sportstv.example.com:8080/sport2/index.m3u8
-#EXTINF:-1 tvg-id="SportTV3" tvg-logo="https://i.imgur.com/ghi9012.png" group-title="A arabic",Sport TV 3 (480p)
-http://live.sportstv.example.com:8080/sport3/index.m3u8
+#EXTINF:-1 tvg-id="AlwanSports2" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 2
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/214174.ts
+#EXTINF:-1 tvg-id="AlwanSports3" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 3
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/214174.ts
+#EXTINF:-1 tvg-id="AlwanSports4" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 4
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219367.ts
+#EXTINF:-1 tvg-id="AlwanSports5" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 5
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219369.ts
+#EXTINF:-1 tvg-id="AlwanSports6" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 6
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219371.ts
