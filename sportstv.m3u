@@ -11,3 +11,15 @@ http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219367.ts
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219369.ts
 #EXTINF:-1 tvg-id="AlwanSports6" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportssd",Alwan Sports 6
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219371.ts
+#EXTINF:-1 tvg-id="AlwanSportsHD1" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 1
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/213710.ts
+#EXTINF:-1 tvg-id="AlwanSportsHD2" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 2
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/214175.ts
+#EXTINF:-1 tvg-id="AlwanSportsHD3" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 3
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219370.ts
+#EXTINF:-1 tvg-id="AlwanSportsHD4" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 4
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219368.ts
+#EXTINF:-1 tvg-id="AlwanSportsHD5" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 5
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219372.ts
+#EXTINF:-1 tvg-id="AlwanSportsHD6" tvg-logo="https://i.imgur.com/alwansportssd.png" group-title="alwansportshd",Alwan Sports HD 6
+http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/219374.ts
