@@ -177,3 +177,43 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/359.m3u8
 
 #EXTINF:-1 group-title="سيرفر كايدن", Thamanya 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/362.m3u8
+#EXTINF:0,Anis FM 
+http://anisfm.pp.ua/1
+#EXTINF:0,Anis FM 2
+http://anisfm.pp.ua/2
+#EXTINF:0,Anis FM 3
+http://anisfm.pp.ua/3
+#EXTINF:0,Anis FM 4
+http://anisfm.pp.ua/4
+#EXTINF:0,Anis FM 5
+http://anisfm.pp.ua/5
+#EXTINF:0, Anis FM Medium
+http://anisfm.pp.ua/1M
+#EXTINF:0,Anis FM 2 Medium
+http://anisfm.pp.ua/2M
+#EXTINF:0,Anis FM 3 Medium
+http://anisfm.pp.ua/3M
+#EXTINF:0,Anis FM 4 Medium
+http://anisfm.pp.ua/4M
+#EXTINF:0,Anis FM 5 Medium
+http://anisfm.pp.ua/5M
+#EXTINF:0,Anis FM Low
+http://anisfm.pp.ua/1L
+#EXTINF:0,Anis FM 2 Low
+http://anisfm.pp.ua/2L
+#EXTINF:0,Anis FM 3 Low 
+http://anisfm.pp.ua/3L
+#EXTINF:0,Anis FM 4 Low 
+http://anisfm.pp.ua/4L
+#EXTINF:0,Anis FM 5 Low 
+http://anisfm.pp.ua/5L
+#EXTINF:0,Captain Faisal
+http://82.145.63.6:4289/stream
+#EXTINF:0,Mohalel Yahya
+http://82.145.63.6:4776/yahia
+#EXTINF:0,Aswat Alweb
+https://live.aswatalweb.com/listen/live/radio.mp3
+#EXTINF:0,Radio Abou Saif 1
+http://radio.abusaif.work/abu-saif-sat-4K-1/mpegts
+#EXTINF:0,Radio Abou Saif 2
+http://radio.abusaif.work/abu-saif-sat-4K-2/mpegts
