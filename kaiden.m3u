@@ -2,36 +2,36 @@
 
 # --- قنوات سيرفر كايدن ---
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_kass_qa.png", AL Kass 3
+#EXTINF:-1 group-title="سيرفر كايدن", AL Kass 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/386.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_kass_qa.png", AL Kass 4
+#EXTINF:-1 group-title="سيرفر كايدن", AL Kass 4
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/389.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://i.postimg.cc/BZNV4JBQ/Starz-Play.png", StarzPlay Sports 1
+#EXTINF:-1 group-title="سيرفر كايدن", StarzPlay Sports 1
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/392.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://i.postimg.cc/BZNV4JBQ/Starz-Play.png", StarzPlay Sports 2
+#EXTINF:-1 group-title="سيرفر كايدن", StarzPlay Sports 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/395.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://i.postimg.cc/BZNV4JBQ/Starz-Play.png", StarzPlay Sports 3
+#EXTINF:-1 group-title="سيرفر كايدن", StarzPlay Sports 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/398.m3u8
 
 # --- قنوات MBC ---
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/250px-Mbc1logo.png", MBC 1
+#EXTINF:-1 group-title="سيرفر كايدن", MBC 1
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/20.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://static.epg.best/ae/MBC2En.ae.png", MBC 2
+#EXTINF:-1 group-title="سيرفر كايدن", MBC 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/23.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/1logo_mbc_action.png", MBC Action
+#EXTINF:-1 group-title="سيرفر كايدن", MBC Action
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/29.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png", MBC Masr
+#EXTINF:-1 group-title="سيرفر كايدن", MBC Masr
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/32.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png", MBC Masr 2
+#EXTINF:-1 group-title="سيرفر كايدن", MBC Masr 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/35.m3u8
 
 # --- قنوات منوعة ---
@@ -87,25 +87,34 @@ http://anisfm.pp.ua/1
 #EXTINF:0,Anis FM 2
 http://anisfm.pp.ua/2
 
-# --- beIN Sports SD (في الأخير فقط) ---
+#EXTINF:0,Anis FM 3
+http://anisfm.pp.ua/3
+
+#EXTINF:0,Anis FM 4
+http://anisfm.pp.ua/4
+
+#EXTINF:0,Anis FM 5
+http://anisfm.pp.ua/5
+
+# --- beIN Sports SD (مرتب بدون أخطاء) ---
 
 #EXTINF:-1 tvg-name="beIN Sports 1 SD" group-title="beIN Sports",beIN Sports 1 SD
 http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6123/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 2 SD" group-title="beIN Sports",beIN Sports 2 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6124/index.m3u8
+http://example.com/bein2.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 3 SD" group-title="beIN Sports",beIN Sports 3 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6125/index.m3u8
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6124/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 4 SD" group-title="beIN Sports",beIN Sports 4 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6126/index.m3u8
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6125/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 5 SD" group-title="beIN Sports",beIN Sports 5 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6127/index.m3u8
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6126/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 6 SD" group-title="beIN Sports",beIN Sports 6 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6127/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 7 SD" group-title="beIN Sports",beIN Sports 7 SD
-https://stream.supertv.gg:3001
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
