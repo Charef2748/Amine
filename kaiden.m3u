@@ -1,7 +1,8 @@
 #EXTM3U
 
 # --- قنوات سيرفر كايدن ---
-
+EXTINF:-1 group-title="سيرفر كايدن", Ajial vip
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن", AL Kass 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/386.m3u8
 
