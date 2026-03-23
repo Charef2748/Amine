@@ -4,14 +4,13 @@
 
 #EXTINF:-1 group-title="سيرفر كايدن", AL Kass 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/386.m3u8
-#EXTINF:-1 group-title="سيرفر كايدن", AL Kass 3
-https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/386.m3u8
 
 #EXTINF:-1 group-title="سيرفر كايدن", AL Kass 4
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/389.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن", AL Kass 
+#EXTINF:-1 group-title="سيرفر كايدن", AL Kass 5
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/390.m3u8
+
 #EXTINF:-1 group-title="سيرفر كايدن", StarzPlay Sports 1
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/392.m3u8
 
@@ -21,6 +20,7 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/395.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن", StarzPlay Sports 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/398.m3u8
 
+
 # --- قنوات MBC ومنوعة ---
 
 #EXTINF:-1 group-title="سيرفر كايدن", MBC 1
@@ -29,7 +29,7 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/20.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن", MBC 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/23.m3u8
 
-#EXTINF:-1 group-title="Action",MBC Action
+#EXTINF:-1 group-title="MBC",MBC Action
 http://sportkn.store/MBC-ACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="سيرفر كايدن", MBC Masr
@@ -53,6 +53,7 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/74.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن", Sada Elbalad 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/77.m3u8
 
+
 # --- أفلام ودراما ---
 
 #EXTINF:-1 group-title="سيرفر كايدن", Rotana Cinema EG
@@ -66,6 +67,7 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/47.m3u8
 
 #EXTINF:-1 group-title="سيرفر كايدن", ON Drama
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/50.m3u8
+
 
 # --- أطفال ---
 
@@ -81,20 +83,24 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/62.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن", Rotana Kids
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/65.m3u8
 
+
 # --- راديو ---
 
 #EXTINF:0,Anis FM
 http://anisfm.pp.ua/1
+
 #EXTINF:0,Anis FM 2
 http://anisfm.pp.ua/2
+
 
 # --- Canal Sports FR ---
 
 #EXTINF:-1 group-title="Canal Sports FR",Canal Sports FR 1
-http://sportfet.shop/CANAL-1/tracks-v1a1
+http://sportfet.shop/CANAL-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Canal Sports FR",Canal Sports FR 2
 http://sportfet.shop/CANAL-2/tracks-v1a1/mono.m3u8
+
 
 # --- Thamanya ---
 
@@ -107,6 +113,7 @@ http://sportfet.shop/THMANYH--2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Thamanya",Thamanya 3
 http://sportfet.shop/THMANYH--3/tracks-v1a1/mono.m3u8
 
+
 # --- Shahid Sports ---
 
 #EXTINF:-1 group-title="Shahid Sports",Shahid Sports 1
@@ -115,35 +122,38 @@ http://sportkn.store/SHAHID-EVENT-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Shahid Sports",Shahid Sports 2
 http://sportkn.store/SHAHID-EVENT-2/tracks-v1a1/mono.m3u8
 
+
 # --- beIN Sports FHD ---
 
-#EXTINF:-1 group-title="beIN Sports FHD",beIN Sports 1 FHD
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 1 FHD
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 
-# --- beIN Sports SD (مصححة) ---
+
+# --- beIN Sports SD ---
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 1 SD
-https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1269943
+https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138135.m3u8
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 2 SD
-https://iptv.ravynerinnn.workers.dev/video.m3u8?id=1121790
+https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138136.m3u8
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 3 SD
 https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138137.m3u8
 
-#EXTINF:-1 group-title="beIN Sports",beIN Sports 4 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6125/index.m3u8
 
-#EXTINF:-1 group-title="beIN Sports",beIN Sports 5 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6126/index.m3u8
+# --- Post Sports ---
 
-#EXTINF:-1 group-title="beIN Sports",beIN Sports 6 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6127/index.m3u8
+#EXTINF:-1 group-title="Post Sports",Post Sports 1
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630675
 
-#EXTINF:-1 group-title="beIN Sports",beIN Sports 7 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
-#EXTINF:-1 group-title="beIN Sports",beIN Sports Extra2 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
+#EXTINF:-1 group-title="Post Sports",Post Sports 2
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630676
 
-#EXTINF:-1 group-title="beIN Sports",beIN Sports 8 SD
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
+#EXTINF:-1 group-title="Post Sports",Post Sports 3
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630677
+
+#EXTINF:-1 group-title="Post Sports",Post Sports 4
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630678
+
+#EXTINF:-1 group-title="Post Sports",Post Sports 5
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630679
