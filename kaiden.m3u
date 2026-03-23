@@ -126,7 +126,7 @@ http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1269943
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 2 SD
-https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138136.m3u8
+https://iptv.ravynerinnn.workers.dev/video.m3u8?id=1121790
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 3 SD
 https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138137.m3u8
@@ -141,4 +141,6 @@ http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6126/index.m3u8
 http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6127/index.m3u8
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 7 SD
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
+#EXTINF:-1 group-title="beIN Sports",beIN Sports Extra2 SD
 http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
