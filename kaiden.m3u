@@ -17,7 +17,7 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/395.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن", StarzPlay Sports 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/398.m3u8
 
-# --- قنوات MBC ---
+# --- قنوات MBC ومنوعة ---
 
 #EXTINF:-1 group-title="سيرفر كايدن", MBC 1
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/20.m3u8
@@ -33,8 +33,6 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/32.m3u8
 
 #EXTINF:-1 group-title="سيرفر كايدن", MBC Masr 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/35.m3u8
-
-# --- قنوات منوعة ---
 
 #EXTINF:-1 group-title="سيرفر كايدن", Alrabiaa
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/38.m3u8
@@ -65,7 +63,7 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/47.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن", ON Drama
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/50.m3u8
 
-# --- أطفال ---
+# --- قنوات أطفال ---
 
 #EXTINF:-1 group-title="سيرفر كايدن", Cartoon Network
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/83.m3u8
@@ -96,7 +94,34 @@ http://anisfm.pp.ua/4
 #EXTINF:0,Anis FM 5
 http://anisfm.pp.ua/5
 
-# --- beIN Sports SD (مرتب بدون أخطاء) ---
+# --- Canal Sports FR ---
+
+#EXTINF:-1 group-title="Canal Sports FR",Canal Sports FR 1
+http://sportfet.shop/CANAL-1/tracks-v1a1
+
+#EXTINF:-1 group-title="Canal Sports FR",Canal Sports FR 2
+http://sportfet.shop/CANAL-2/tracks-v1a1/mono.m3u8
+
+# --- Thamanya (ثمانية) ---
+
+#EXTINF:-1 group-title="Thamanya",Thamanya 1
+http://sportfet.shop/THMANYH--1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Thamanya",Thamanya 2
+http://sportfet.shop/THMANYH--2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Thamanya",Thamanya 3
+http://sportfet.shop/THMANYH--3/tracks-v1a1/mono.m3u8
+
+# --- Shahid Sports ---
+
+#EXTINF:-1 group-title="Shahid Sports",Shahid Sports 1
+http://sportkn.store/SHAHID-EVENT-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Shahid Sports",Shahid Sports 2
+http://sportkn.store/SHAHID-EVENT-2/tracks-v1a1/mono.m3u8
+
+# --- beIN Sports SD ---
 
 #EXTINF:-1 tvg-name="beIN Sports 1 SD" group-title="beIN Sports",beIN Sports 1 SD
 http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6123/index.m3u8
