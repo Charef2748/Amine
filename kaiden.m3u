@@ -1,3 +1,6 @@
+#EXTM3U
+
+# --- قنوات سيرفر كايدن ---
 
 #EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_kass_qa.png", AL Kass 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/386.m3u8
@@ -14,7 +17,7 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/395.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://i.postimg.cc/BZNV4JBQ/Starz-Play.png", StarzPlay Sports 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/398.m3u8
 
-# --- قنوات منوعة وقنوات MBC ---
+# --- قنوات MBC ---
 
 #EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/250px-Mbc1logo.png", MBC 1
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/20.m3u8
@@ -31,103 +34,61 @@ https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/32.m3u8
 #EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png", MBC Masr 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/35.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://1.bp.blogspot.com/-oDPemfvV_1Q/YS4T2_NUnrI/AAAAAAAAzZg/s8VZod3_fUIOFohfw-2sOU6QTbLgozqKQCLcBGAsYHQ/s320/4.png", Alrabiaa
+# --- قنوات منوعة ---
+
+#EXTINF:-1 group-title="سيرفر كايدن", Alrabiaa
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/38.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://i.imgur.com/iy70Xxr.png", DMC
+#EXTINF:-1 group-title="سيرفر كايدن", DMC
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/44.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="http://4.bp.blogspot.com/-wCbC_h0cGd4/XbalWaMubvI/AAAAAAAAd9M/lSGQZ8wQQpE419WWd0eCHWcJg0ntxuwQgCK4BGAYYCw/s320/%25D8%25A7%25D9%2584%25D9%2586%25D9%2587%25D8%25A7%25D8%25B1.png", Al Nahar
+#EXTINF:-1 group-title="سيرفر كايدن", Al Nahar
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/59.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sada-elbalad-eg.png", Sada Elbalad
+#EXTINF:-1 group-title="سيرفر كايدن", Sada Elbalad
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/74.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="http://www.vod-logo.net/photos/06ef6375e3444a289f0384bb0b51ec64.jpg", Sada Elbalad 2
+#EXTINF:-1 group-title="سيرفر كايدن", Sada Elbalad 2
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/77.m3u8
 
-# --- قنوات الأفلام والدراما ---
+# --- أفلام ودراما ---
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana-cinema-ksa-sa.png", Rotana Cinema EG
+#EXTINF:-1 group-title="سيرفر كايدن", Rotana Cinema EG
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/68.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana-cinema-ksa-sa.png", Rotana Cinema KSA
+#EXTINF:-1 group-title="سيرفر كايدن", Rotana Cinema KSA
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/71.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="http://www.vod-logo.net/photos/af03614d973f7e35027e121071028fa9.jpg", DMC Drama
+#EXTINF:-1 group-title="سيرفر كايدن", DMC Drama
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/47.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on_tv_eg_drama.png", ON Drama
+#EXTINF:-1 group-title="سيرفر كايدن", ON Drama
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/50.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://i.imgur.com/3VLjZKc.png", Sada Elbalad Drama
-https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/80.m3u8
+# --- أطفال ---
 
-# --- قنوات الأطفال ---
-
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cartoon-network-ca.png?raw=true", Cartoon Network
+#EXTINF:-1 group-title="سيرفر كايدن", Cartoon Network
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/83.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-3-sa.svg", MBC 3
+#EXTINF:-1 group-title="سيرفر كايدن", MBC 3
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/26.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="https://3.bp.blogspot.com/-JJ2W1jFiqag/XacHHkbfMhI/AAAAAAAAdNA/tsIgT3QfZO89ie6TrARR-UO862MXuamngCK4BGAYYCw/s320/%25D8%25AC%25D9%258A%25D9%2585.png", JEEM TV
+#EXTINF:-1 group-title="سيرفر كايدن", JEEM TV
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/62.m3u8
 
-#EXTINF:-1 group-title="سيرفر كايدن" tvg-logo="http://4.bp.blogspot.com/-xZsptfNI9Gw/Xo3gp0d5QBI/AAAAAAAAiw4/isNJYJgaCKoCqjsJrqsdvdSs7fGlT8CiQCK4BGAYYCw/s320/%25D8%25B1%25D9%2588%25D8%25AA%25D8%25A7%25D9%2586%25D8%25A7%2B%25D9%2583%25D9%258A%25D8%25AF%25D8%25B2.png", Rotana Kids
+#EXTINF:-1 group-title="سيرفر كايدن", Rotana Kids
 https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/65.m3u8
 
-# --- قنوات Thamanya ---
+# --- راديو ---
 
-#EXTINF:-1 group-title="سيرفر كايدن", Thamanya 1
-https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/41.m3u8
-
-#EXTINF:-1 group-title="سيرفر كايدن", Thamanya 2
-https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/359.m3u8
-
-#EXTINF:-1 group-title="سيرفر كايدن", Thamanya 3
-https://w.shahidtv.net/live/dramaapp/1a65465sadasdd/362.m3u8
-
-#EXTINF:0,Anis FM 
+#EXTINF:0,Anis FM
 http://anisfm.pp.ua/1
+
 #EXTINF:0,Anis FM 2
 http://anisfm.pp.ua/2
-#EXTINF:0,Anis FM 3
-http://anisfm.pp.ua/3
-#EXTINF:0,Anis FM 4
-http://anisfm.pp.ua/4
-#EXTINF:0,Anis FM 5
-http://anisfm.pp.ua/5
-#EXTINF:0, Anis FM Medium
-http://anisfm.pp.ua/1M
-#EXTINF:0,Anis FM 2 Medium
-http://anisfm.pp.ua/2M
-#EXTINF:0,Anis FM 3 Medium
-http://anisfm.pp.ua/3M
-#EXTINF:0,Anis FM 4 Medium
-http://anisfm.pp.ua/4M
-#EXTINF:0,Anis FM 5 Medium
-http://anisfm.pp.ua/5M
-#EXTINF:0,Anis FM Low
-http://anisfm.pp.ua/1L
-#EXTINF:0,Anis FM 2 Low
-http://anisfm.pp.ua/2L
-#EXTINF:0,Anis FM 3 Low 
-http://anisfm.pp.ua/3L
-#EXTINF:0,Anis FM 4 Low 
-http://anisfm.pp.ua/4L
-#EXTINF:0,Anis FM 5 Low 
-http://anisfm.pp.ua/5L
-#EXTINF:0,Captain Faisal
-http://82.145.63.6:4289/stream
-#EXTINF:0,Mohalel Yahya
-http://82.145.63.6:4776/yahia
-#EXTINF:0,Aswat Alweb
-https://live.aswatalweb.com/listen/live/radio.mp3
-#EXTINF:0,Radio Abou Saif 1
-http://radio.abusaif.work/abu-saif-sat-4K-1/mpegts
-#EXTINF:0,Radio Abou Saif 2
-http://radio.abusaif.work/abu-saif-sat-4K-2/mpeg
+
+# --- beIN Sports SD (في الأخير فقط) ---
+
 #EXTINF:-1 tvg-name="beIN Sports 1 SD" group-title="beIN Sports",beIN Sports 1 SD
 http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6123/index.m3u8
 
