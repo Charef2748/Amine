@@ -121,10 +121,10 @@ http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 # --- beIN Sports SD (مصححة) ---
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 1 SD
-https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138135.m3u8
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1269943
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 2 SD
-https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138136.m3u8
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1269944
 
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 3 SD
 https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138137.m3u8
