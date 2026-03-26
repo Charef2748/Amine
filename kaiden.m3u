@@ -1,5 +1,62 @@
 #EXTM3U
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 1 FHD
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 
+
+# --- beIN Sports SD ---
+
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 1 SD
+https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138135.m3u8
+
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 2 SD
+https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138136.m3u8
+
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 3 SD
+https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/138137.m3u8
+
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 4 SD
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6125/index.m3u8
+
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 5 SD
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6126/index.m3u8
+
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 6 SD
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6127/index.m3u8
+
+#EXTINF:-1 group-title="beIN Sports",beIN Sports 7 SD
+http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/6128/index.m3u8
+
+#EXTINF:-1 group-title="Post Sports",Post Sports 1
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630675
+
+#EXTINF:-1 group-title="Post Sports",Post Sports 2
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630676
+
+#EXTINF:-1 group-title="Post Sports",Post Sports 3
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630677
+
+#EXTINF:-1 group-title="Post Sports",Post Sports 4
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630678
+
+#EXTINF:-1 group-title="Post Sports",Post Sports 5
+https://iptv.ravynerinnn.workers.dev/index.m3u8?id=1630679
+#EXTINF:-1 group-title="Alwan Sports",Alwan Sports 1
+https://stream.camcloud.stream/stream/39faa78a1e9a/playlist.m3u8
+
+#EXTINF:-1 group-title="Alwan Sports",Alwan Sports 2 SD
+https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
+
+#EXTINF:-1 group-title="Alwan Sports",Alwan Sports 3 SD
+https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8
+
+#EXTINF:-1 group-title="Alwan Sports",Alwan Sports 4 SD
+https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
+
+#EXTINF:-1 group-title="Alwan Sports",Alwan Sports 5 SD
+https://kid-3bk.pages.dev/beiniraq/d6.m3u8
+
+#EXTINF:-1 group-title="Alwan Sports",Alwan Sports 6 SD
+https://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7imfrvwzogWJ1RB7BCbatOw/ts
 #EXTINF:-1 group-title="Sports World", МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
@@ -550,3 +607,29 @@ http://79.127.207.193:80/ArtSport6/playlist.m3u8
 http://178.23.88.55/Nova_Sport/index.m3u8
 
 #EXTINF:-1 group-title="Sports World", NOVA SPORT 1 HD 🇨🇿
+#EXTINF:-1 group-title="Canal Sports FR",Canal Sports FR 1
+http://sportfet.shop/CANAL-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canal Sports FR",Canal Sports FR 2
+http://sportfet.shop/CANAL-2/tracks-v1a1/mono.m3u8
+
+
+# --- Thamanya ---
+
+#EXTINF:-1 group-title="Thamanya",Thamanya 1
+http://sportfet.shop/THMANYH--1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Thamanya",Thamanya 2
+http://sportfet.shop/THMANYH--2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Thamanya",Thamanya 3
+http://sportfet.shop/THMANYH--3/tracks-v1a1/mono.m3u8
+
+
+# --- Shahid Sports ---
+
+#EXTINF:-1 group-title="Shahid Sports",Shahid Sports 1
+http://sportkn.store/SHAHID-EVENT-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Shahid Sports",Shahid Sports 2
+http://sportkn.store/SHAHID-EVENT-2/tracks-v1a1/mono.m3u8
