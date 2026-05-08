@@ -629,7 +629,7 @@ http://sportfet.shop/THMANYH--3/tracks-v1a1/mono.m3u8
 # --- Shahid Sports ---
 
 #EXTINF:-1 group-title="Shahid Sports",Shahid Sports 1
-http://sportkn.store/SHAHID-EVENT-1/tracks-v1a1/mono.m3u8
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
 
 #EXTINF:-1 group-title="Shahid Sports",Shahid Sports 2
-http://sportkn.store/SHAHID-EVENT-2/tracks-v1a1/mono.m3u8
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
