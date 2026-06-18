@@ -1,4 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1,beIN MAX 1 SD
+http://h42.reelpush.online/live/610303030/index.m3u8
+
+#EXTINF:-1,beIN MAX 2 SD
+http://h42.reelpush.online/live/1515000000/index.m3u8
+
+#EXTINF:-1,beIN MAX 3 SD
+https://ap-4it.pages.dev/bein3.m3u8
+
+#EXTINF:-1,beIN MAX 4 SD
+http://185.160.192.14/live/171348492752/5S6HGsea3j/256105.m3u8
+
 #EXTINF:-1 group-title="beIN Sports",beIN Sports 1 FHD
 http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 
