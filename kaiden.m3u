@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="beIN SPORTS MAX",beIN MAX 1 SD
+#EXTINF:-1 group-title="FIFA WORLD CUP",beIN MAX 1 SD
 http://h42.reelpush.online/live/610303030/index.m3u8
 
-#EXTINF:-1 group-title="beIN SPORTS MAX",beIN MAX 2 SD
+#EXTINF:-1 group-title="FIFA WORLD CUP",beIN MAX 2 SD
 http://h42.reelpush.online/live/1515000000/index.m3u8
 
-#EXTINF:-1 group-title="beIN SPORTS MAX",beIN MAX 3 SD
+#EXTINF:-1 group-title="FIFA WORLD CUP",beIN MAX 3 SD
 https://ap-4it.pages.dev/bein3.m3u8
 
-#EXTINF:-1 group-title="beIN SPORTS MAX",beIN MAX 4 SD
+#EXTINF:-1 group-title="FIFA WORLD CUP",beIN MAX 4 SD
 http://185.160.192.14/live/171348492752/5S6HGsea3j/256105.m3u8
 
 
