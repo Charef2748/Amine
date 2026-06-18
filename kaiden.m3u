@@ -4,7 +4,8 @@
 http://h42.reelpush.online/live/610303030/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WORLD CUP",beIN MAX 2 SD
-http://h42.reelpush.online/live/1515000000/index.m3u8
+http://h42.reelpush.online/live/1515000#EXTINF:-1 group-title="FIFA WORLD CUP",beIN MAX 4 SD
+http://185.160.192.14/live/171348492752/5S6HGsea3j/256105.m3u8000/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WORLD CUP",beIN MAX 3 SD
 https://ap-4it.pages.dev/bein3.m3u8
