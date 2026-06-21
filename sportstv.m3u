@@ -1,13 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="Bein max fhd",Bein max 1
-http://akar13.xyz/live/115581720170/135965685413/460862.m3u8
-#EXTINF:-1 group-title="Bein max fhd",Bein max 2
-http://185.191.126.127:8080/live//omar777&&/01103978590/460864.m3u8
-#EXTINF:-1 group-title="Bein max fhd",Bein max 3
-http://akar13.xyz/live/4750034742512197/3177932697568638/460867.ts
-#EXTINF:-1 group-title="Bein max fhd",Bein max 4
-http://akar13.xyz/live/4750034742512197/3177932697568638/460870.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="FIFA WORLD CUP 2026",beIN MAX 1 HD
 https://stm.linkip.org/live/1957_.m3u8
 
