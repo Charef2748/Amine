@@ -39,8 +39,12 @@ https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ortb1" tvg-name="Ortb 1" group-title="FIFA WORLD CUP 2026",Ortb 1
 http://69.64.57.208/ortb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal 2" group-title="FIFA WORLD CUP 2026",Canal 2
+http://69.64.57.208/canal2international/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="ALWAN SPORTS",Alwan Sports 1
-https://kidntv.netlify.app/kid12.m3u8
+http
+s://kidntv.netlify.app/kid12.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="ALWAN SPORTS",Alwan Sports 2
 https://kidntv.netlify.app/kid13.m3u8
