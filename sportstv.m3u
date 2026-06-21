@@ -4,6 +4,10 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="FIFA WORLD CUP 2026",beIN MAX 1 HD
 https://stm.linkip.org/live/1957_.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="FIFA WORLD CUP 2026",ENTV
+https://stm.linkip.org/live/1957_.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="FIFA WORLD CUP 2026",beIN MAX 2 HD
 https://stm.linkip.org/live/1956_.m3u8
 
