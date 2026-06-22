@@ -25,11 +25,10 @@ https://stm.linkip.org/live/1965_.m3u8
 http://h42.reelpush.online/live/610303030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="FIFA WORLD CUP 2026",beIN MAX 2 SD
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/TSOUhGpFrwVOrlXLRJ6KvP6rLVg3rS2f4k8_14f8HW1IMRwCd3Nk05Qv0xVHuw4lSLQue-bY9HMzp0KWN7jQzQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+https://stm.linkip.org/live/1956_.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="FIFA WORLD CUP 2026",beIN MAX 3 SD
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/z_wYiP-m-SUBBFL43nqgRW-RVe1Jju1X_tCRSmh8Qwt_6eJJoqFnjZIvGdcsUHW9ALxtEzn8K7rBEJ4ib6AZ9A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-
+https://stm.linkip.org/live/1965_.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="FIFA WORLD CUP 2026",beIN MAX 4 SD
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/z_wYiP-m-SUBBFL43nqgRW-RVe1Jju1X_tCRSmh8Qwt_6eJJoqFnjZIvGdcsUHW9ALxtEzn8K7rBEJ4ib6AZ9A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTM3U
